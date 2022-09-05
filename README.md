@@ -57,14 +57,14 @@ I enjoy manipulating databases and extracting relevant data in order to expose h
 
 Tools for Earthquake Processing
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=seismicNetworks)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=seismicNetworks)](https://github.com/gabipana7/seismicNetworks)
 
 
 ### Chaos Doubling
 
 Scripts for generating Bifurcation Diagrams for Maps, ODEs and PDEs
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=ChaosDoubling)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=ChaosDoubling)](https://github.com/gabipana7/ChaosDoubling)
 
 
 ### Seminars for Numerical Methods 
