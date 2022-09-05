@@ -38,20 +38,20 @@ Tools for Earthquake Processing
 
 
 #### Chaos Doubling
----
+
 Scripts for generating Bifurcation Diagrams for Maps, ODEs and PDEs
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=ChaosDoubling)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Seminars for Numerical Methods 
----
+
 Highlights: 
 
 
-
-## 🔭 I’m currently working on ...
 ---
+## 🔭 I’m currently working on ...
+
 
 - Developing a Data Portal prototype for DANUBIUS-RI
 - Improving seismic networks processing and visualization
@@ -60,7 +60,7 @@ Highlights:
 
 
 ## 🌱 I’m currently learning and improving ...
----
+
 - Python: numpy, pandas, matlotplib, scikit-learn
 - SQL: mySQL, PostgreSQL
 - Julia
@@ -73,13 +73,14 @@ Highlights:
 I love nature :evergreen_tree:, hiking :mount_fuji:, swimming :swimmer:, snowboarding :snowboarder:, biking :bicyclist: and working out :runner: :muscle:
 
 
+---
 ## 📫 How to reach me: ...
 LinkedIn
 
 
 ---
 ## :chart_with_upwards_trend: GitHub Stats
----
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabipana7&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
