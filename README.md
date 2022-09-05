@@ -72,9 +72,9 @@ Scripts for generating Bifurcation Diagrams for Maps, ODEs and PDEs
 Highlights: 
 
 
+
 ---
 ## 🔭 I’m currently working on ...
-
 
 - Developing a Data Portal prototype for DANUBIUS-RI
 - Improving seismic networks processing and visualization
@@ -82,6 +82,7 @@ Highlights:
 
 
 
+---
 ## 🌱 I’m currently learning and improving ...
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54): 
@@ -101,9 +102,6 @@ Highlights:
 ---
 ## ⚡ About me: 
 I love nature :evergreen_tree:, hiking :mount_fuji:, swimming :swimmer:, snowboarding :snowboarder:, biking :bicyclist: and working out :runner: :muscle:
-
-
-
 
 
 
