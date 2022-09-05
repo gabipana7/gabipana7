@@ -5,15 +5,6 @@
 </p>
 
 
-<h3 align=”center”>
-Hi there, I'm Gabriel 👋
-</h3>
-
-
-<h2 align=”center”>
-I'm a PhD student working on Scientific Data Processing and Visualization
-</h2>
-
 <h3 align="center">Hi there, I'm Gabriel 👋</h3>
 
 <h2 align="center">I'm a PhD student working on Scientific Data Processing and Visualization</h2>
