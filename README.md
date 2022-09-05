@@ -1,7 +1,14 @@
 ### Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabipana7)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabipana7&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=seismicNetworks)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabipana7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **gabipana7/gabipana7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
