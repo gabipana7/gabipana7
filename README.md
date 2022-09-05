@@ -1,18 +1,18 @@
 <p align=”center”>
 
-![Github-banner-v1](https://user-images.githubusercontent.com/72228598/188438938-36bb8adc-8e59-4875-9e7a-c1028ab5632e.png)
+![Github-banner-v2](https://user-images.githubusercontent.com/72228598/188440174-6c2caf8c-9b43-415a-acf0-2f0dbd7c2d9d.png)
 
 </p>
 
 
 <h3 align=”center”>
 Hi there, I'm Gabriel 👋
-</p>
+</h3>
 
 
 <h2 align=”center”>
 I'm a PhD student working on Scientific Data Processing and Visualization
-</p>
+</h2>
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
