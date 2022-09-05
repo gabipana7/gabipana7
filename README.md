@@ -2,9 +2,17 @@
 
 ![Github-banner-v1](https://user-images.githubusercontent.com/72228598/188438938-36bb8adc-8e59-4875-9e7a-c1028ab5632e.png)
 
+</p>
+
+
+<p align=”center”>
 
 ### Hi there, I'm Gabriel 👋
 
+</p>
+
+
+<p align=”center”>
 
 ## I'm a PhD student working on Scientific Data Processing and Visualization
 
