@@ -3,14 +3,14 @@
 
 ## I'm a PhD student working on Scientific Data Processing and Visualization
 
----
+
 
 
 ### Projects I've worked on
----
+
 
 #### Masters Thesis
----
+
 Tools for Earthquake Processing
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=seismicNetworks)](https://github.com/anuraghazra/github-readme-stats)
