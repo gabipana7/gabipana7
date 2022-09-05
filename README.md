@@ -9,6 +9,16 @@
 
 <h2 align="center">I'm a PhD student working on Scientific Data Processing and Visualization</h2>
 
+I enjoy manipulating databases and extracting relevant data in order to expose hidden information and visualize it in an interactive way.
+---
+## 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/gabriel-pana-72a37a24b/"><img align="left" src="https://raw.githubusercontent.com/gabipana7/gabipana7/main/images/linkedin.svg" alt="gabipana7 | LinkedIn" width="21px"/></a> 
+<br/>
+
+
+---
+## :briefcase: Technical Skills
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -36,6 +46,7 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717) -->
 
 
+---
 ## Projects I've worked on
 
 
@@ -90,11 +101,7 @@ I love nature :evergreen_tree:, hiking :mount_fuji:, swimming :swimmer:, snowboa
 
 
 
----
-## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/gabriel-pana-72a37a24b/"><img align="left" src="https://raw.githubusercontent.com/gabipana7/gabipana7/main/images/linkedin.svg" alt="gabipana7 | LinkedIn" width="21px"/></a> 
-<br/>
 
 
 ---
