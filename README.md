@@ -18,7 +18,9 @@
 
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
+![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
+![](https://img.shields.io/badge/Paraview-B1432?style=for-the-badge&logo=Paraview&logoColor=white)
 
 
 <!-- ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
