@@ -12,6 +12,7 @@
 <p>
 I enjoy manipulating databases and extracting relevant data in order to expose hidden information and visualize it in an interactive way.
 </p>
+
 ---
 ## 🤝 Connect with me:
 
