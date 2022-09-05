@@ -78,7 +78,7 @@ I love nature :evergreen_tree:, hiking :mount_fuji:, swimming :swimmer:, snowboa
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/gabriel-pana-72a37a24b/"><img align="left" src="https://raw.githubusercontent.com/gabipana7/gabipana7/main/images/linkedin.svg" alt="gabipana7 | LinkedIn" width="21px"/></a> 
-
+<br/>
 
 
 ---
