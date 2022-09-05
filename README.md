@@ -53,21 +53,21 @@ I enjoy manipulating databases and extracting relevant data in order to expose h
 ## Projects I've worked on
 
 
-#### Masters Thesis
+### Masters Thesis
 
 Tools for Earthquake Processing
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=seismicNetworks)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### Chaos Doubling
+### Chaos Doubling
 
 Scripts for generating Bifurcation Diagrams for Maps, ODEs and PDEs
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=ChaosDoubling)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### Seminars for Numerical Methods 
+### Seminars for Numerical Methods 
 
 Highlights: 
 
