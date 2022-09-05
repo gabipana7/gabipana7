@@ -15,7 +15,7 @@ I'm a PhD student working on Scientific Data Processing and Visualization
 </h2>
 
 
-<h1 align="center">I'm a PhD student working on Scientific Data Processing and Visualization</h1>
+<h2 align="center">I'm a PhD student working on Scientific Data Processing and Visualization</h2>
 
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
