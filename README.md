@@ -29,7 +29,6 @@ I enjoy manipulating databases and extracting relevant data in order to expose h
 
 
 
-
 ![Python](https://img.shields.io/badge/Code-Python-blue?style=plastic&logo=python)
 ![Jupyter](https://img.shields.io/badge/Code-Jupyter-orange?style=plastic&logo=Jupyter)
 ![PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-informational?style=plastic&logo=PostgreSQL&color=336791)
