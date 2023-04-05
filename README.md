@@ -104,7 +104,6 @@ Highlights:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=numerical-methods)](https://github.com/gabipana7/numerical-methods)
 
 
-
 ---
 ## 🔭 I’m currently working on ...
 
