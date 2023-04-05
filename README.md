@@ -28,7 +28,7 @@ I enjoy manipulating databases and extracting relevant data in order to expose h
 
 
 
-
+![Julia](https://img.shields.io/badge/logo-Julia-blue?logo=julia&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-blue?style=plastic&logo=python)
 ![Jupyter](https://img.shields.io/badge/Code-Jupyter-orange?style=plastic&logo=Jupyter)
 ![PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-informational?style=plastic&logo=PostgreSQL&color=336791)
@@ -72,6 +72,16 @@ I enjoy manipulating databases and extracting relevant data in order to expose h
 ---
 ## Projects I've worked on
 
+### Earthquakes
+
+Exploratory Data Analysis
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=seismic-exporatory-data-analysis)](https://github.com/gabipana7/seismic-exporatory-data-analysis)
+
+Seismic Networks in Julia
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=seismic-networks-julia-dev)](https://github.com/gabipana7/seismic-networks-julia-dev)
+
 
 ### Masters Thesis
 
@@ -90,6 +100,8 @@ Scripts for generating Bifurcation Diagrams for Maps, ODEs and PDEs
 ### Seminars for Numerical Methods 
 
 Highlights: 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=numerical-methods)](https://github.com/gabipana7/numerical-methods)
 
 
 
