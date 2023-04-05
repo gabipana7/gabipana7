@@ -76,7 +76,7 @@ I enjoy manipulating databases and extracting relevant data in order to expose h
 
 Exploratory Data Analysis
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=seismic-exporatory-data-analysis)](https://github.com/gabipana7/seismic-exporatory-data-analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=seismic-exploratory-data-analysis)](https://github.com/gabipana7/seismic-exploratory-data-analysis)
 
 Seismic Networks in Julia
 
