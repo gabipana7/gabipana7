@@ -1,8 +1,9 @@
 <p align=”center”>
 
-![Github-banner-v2](https://user-images.githubusercontent.com/72228598/188440174-6c2caf8c-9b43-415a-acf0-2f0dbd7c2d9d.png)
+<!-- ![Github-banner-v2](https://user-images.githubusercontent.com/72228598/188440174-6c2caf8c-9b43-415a-acf0-2f0dbd7c2d9d.png) -->
+![iceland_banner](https://github.com/user-attachments/assets/628c71ec-667a-4977-abd5-b898743215c6)
 
-</p>
+
 
 
 <h3 align="center">Hi there, I'm Gabriel 👋</h3>
