@@ -7,10 +7,10 @@
 
 <h3 align="center">Hi there, I'm Gabriel 👋</h3>
 
-<h2 align="center">I'm a PhD student working on Scientific Data Processing and Visualization</h2>
+<h2 align="center">I'm a recent PhD graduate working on Scientific Data Processing and Visualization</h2>
 
 <p>
-I enjoy manipulating databases and extracting relevant data in order to expose hidden information and visualize it in an interactive way.
+I enjoy manipulating databases and extracting relevant data to expose hidden information and visualize it interactively.
 </p>
 
 ---
@@ -83,6 +83,10 @@ Seismic Networks in Julia
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabipana7&repo=seismic-networks-julia-dev)](https://github.com/gabipana7/seismic-networks-julia-dev)
 
 
+### DANUBIUS Data Portal
+- Developing a Data Portal prototype for DANUBIUS-RI
+
+
 ### Masters Thesis
 
 Tools for Earthquake Processing
@@ -106,8 +110,6 @@ Highlights:
 ---
 ## 🔭 I’m currently working on ...
 
-- Developing a Data Portal prototype for DANUBIUS-RI
-- Improving seismic networks processing and visualization
 - Learning Data Science tools
 
 
