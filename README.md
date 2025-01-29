@@ -14,7 +14,7 @@
 I enjoy manipulating databases and extracting relevant data to expose hidden information and visualize it interactively.
 </p>
 
-<h2 align="center">Please visit my <a href=“[http://Internet URL goes here.](https://gabipana7.github.io/)”>portfolio</a> page for a better look at my projects</h2>
+<h2 align="center">Please visit my [Portfolio](https://gabipana7.github.io/) page for a better look at my projects</h2>
 
 ## Projects I've worked on
 
