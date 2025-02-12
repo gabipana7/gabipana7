@@ -5,13 +5,13 @@ I'm a Physics PhD working on Data Processing and Visualization.
 I am passionate about using the latest ML and AI technologies to solve data challenges.
 
 
-## :briefcase: Technical Skills
+## :briefcase: Tech stack
 
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=plastic&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=plastic&logo=windows&logoColor=0078D6)
 
-![Julia](https://img.shields.io/badge/Code-Julia-blue?style=plastic&logo=julia&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-blue?style=plastic&logo=python)
+![Julia](https://img.shields.io/badge/Code-Julia-blue?style=plastic&logo=julia&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Code-Jupyter-orange?style=plastic&logo=Jupyter)
 ![PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-informational?style=plastic&logo=PostgreSQL&color=336791)
 
@@ -19,12 +19,12 @@ I am passionate about using the latest ML and AI technologies to solve data chal
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Tool-GIT-E44C30?style=plastic&logo=git&logoColor=E44C30)
 ![Excel](https://img.shields.io/badge/Tool-Excel-175B36?style=plastic)
-![PowerBI](https://img.shields.io/badge/Tool-PowerBI-E44C30?style=plastic)
+![PowerBI](https://img.shields.io/badge/Tool-PowerBI-F2CA18?style=plastic)
 
 
 ## 🌱 I’m currently learning and improving my skills in 
 
-- Scientific programming, data science and ML: Python (scikit-learn, PyTorch), Julia
+- Scientific programming, data science, and ML: Python (scikit-learn, PyTorch), Julia
 - Data processing and visualization: SQL, Excel, PowerBI, DAX
 - Maths and statistics: statistical analysis, machine learning & AI, time series analysis, regression analysis, classification, clustering
 
