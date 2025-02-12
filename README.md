@@ -10,14 +10,15 @@ I am passionate about using the latest ML and AI technologies to solve data chal
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=plastic&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=plastic&logo=windows&logoColor=0078D6)
 
-![Julia](https://img.shields.io/badge/logo-Julia-blue?style=plastic&logo=julia&logoColor=white)
+![Julia](https://img.shields.io/badge/Code-Julia-blue?style=plastic&logo=julia&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-blue?style=plastic&logo=python)
 ![Jupyter](https://img.shields.io/badge/Code-Jupyter-orange?style=plastic&logo=Jupyter)
 ![PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-informational?style=plastic&logo=PostgreSQL&color=336791)
 
-![VSC](https://img.shields.io/badge/Tool-Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=5C2D91)
+![VSC](https://img.shields.io/badge/Tool-Visual_Studio_Code-5C2D91?style=plastic&logo=visual%20studio&logoColor=5C2D91)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Tool-GIT-E44C30?style=plastic&logo=git&logoColor=E44C30)
+![PowerBI](https://img.shields.io/badge/Tool-PowerBI-E44C30?style=plastic&logo=git&logoColor=yellow)
 
 
 ## 🌱 I’m currently learning and improving my skills in 
