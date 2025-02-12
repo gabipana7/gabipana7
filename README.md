@@ -18,7 +18,8 @@ I am passionate about using the latest ML and AI technologies to solve data chal
 ![VSC](https://img.shields.io/badge/Tool-Visual_Studio_Code-5C2D91?style=plastic&logo=visual%20studio&logoColor=5C2D91)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Tool-GIT-E44C30?style=plastic&logo=git&logoColor=E44C30)
-![PowerBI](https://img.shields.io/badge/Tool-PowerBI-E44C30?style=plastic&logo=git&logoColor=yellow)
+![Excel](https://img.shields.io/badge/Tool-Excel-175B36?style=plastic)
+![PowerBI](https://img.shields.io/badge/Tool-PowerBI-E44C30?style=plastic)
 
 
 ## 🌱 I’m currently learning and improving my skills in 
