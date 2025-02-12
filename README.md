@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel 👋
 
-I'm a Physics PhD working on Data Processing and Visualization.
+I'm a Physics PhD graduate working on Data Processing and Visualization.
 
 I am passionate about using the latest ML and AI technologies to solve data challenges.
 
