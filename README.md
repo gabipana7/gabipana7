@@ -1,6 +1,47 @@
+### Hi there, I'm Gabriel 👋
+
+I'm a Physics PhD working on Data Processing and Visualization.
+
+I am passionate about using the latest ML and AI technologies to solve data challenges.
+
+---
+## :briefcase: Technical Skills
+
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=plastic&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=plastic&logo=windows&logoColor=0078D6)
+
+![Julia](https://img.shields.io/badge/logo-Julia-blue?style=plastic&logo=julia&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-blue?style=plastic&logo=python)
+![Jupyter](https://img.shields.io/badge/Code-Jupyter-orange?style=plastic&logo=Jupyter)
+![PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-informational?style=plastic&logo=PostgreSQL&color=336791)
+
+![VSC](https://img.shields.io/badge/Tool-Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=5C2D91)
+![GitHub](https://img.shields.io/badge/Tool-GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Tool-GIT-E44C30?style=plastic&logo=git&logoColor=E44C30)
+
+---
+## 🌱 I’m currently learning and improving my skills in 
+
+- Python (scikit-learn, PyTorch)
+- Julia
+- SQL
+- PowerBI
+- Excel
+- Statistics
+- Data Analysis
+- Numerical Analysis
+- Data visualization
+- Machine Learning
+- AI
+
+---
+## ⚡ About me: 
+I love nature :evergreen_tree:, hiking :mount_fuji:, swimming :swimmer:, snowboarding :snowboarder:, biking :bicyclist: and working out :runner: :muscle:
+
+<!--
+
 <p align=”center”>
 
-<!-- ![Github-banner-v2](https://user-images.githubusercontent.com/72228598/188440174-6c2caf8c-9b43-415a-acf0-2f0dbd7c2d9d.png) -->
 ![iceland_banner](https://github.com/user-attachments/assets/628c71ec-667a-4977-abd5-b898743215c6)
 
 
@@ -137,5 +178,5 @@ I love nature :evergreen_tree:, hiking :mount_fuji:, swimming :swimmer:, snowboa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabipana7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+-->
 
