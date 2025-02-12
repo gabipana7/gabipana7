@@ -4,7 +4,7 @@ I'm a Physics PhD working on Data Processing and Visualization.
 
 I am passionate about using the latest ML and AI technologies to solve data challenges.
 
----
+
 ## :briefcase: Technical Skills
 
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=plastic&logo=linux&logoColor=FCC624)
@@ -19,20 +19,12 @@ I am passionate about using the latest ML and AI technologies to solve data chal
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Tool-GIT-E44C30?style=plastic&logo=git&logoColor=E44C30)
 
----
+
 ## 🌱 I’m currently learning and improving my skills in 
 
-- Python (scikit-learn, PyTorch)
-- Julia
-- SQL
-- PowerBI
-- Excel
-- Statistics
-- Data Analysis
-- Numerical Analysis
-- Data visualization
-- Machine Learning
-- AI
+- Scientific programming, data science and ML: Python (scikit-learn, PyTorch), Julia
+- Data processing and visualization: SQL, Excel, PowerBI, DAX
+- Maths and statistics: statistical analysis, machine learning & AI, time series analysis, regression analysis, classification, clustering
 
 ---
 ## ⚡ About me: 
